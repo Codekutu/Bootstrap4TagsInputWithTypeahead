@@ -149,3 +149,58 @@
 	padding: 8px 15px;
 	text-align: center;
 }
+
+/* Codekutu */
+body {
+	background: #222629;
+	font-family: 'Baloo Tamma 2', cursive;
+}
+
+h1 {
+	color: #86c232;
+	font-weight: bold;
+}
+
+input {
+	color: #fff;
+}
+
+.form-group label {
+	color: #fff;
+	font-size: 1.8rem;
+}
+
+hr {
+	border-color: #474B4F;
+}
+
+.bootstrap-tagsinput {
+	border-color: #fff;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	color: #6B6E70;
+}
+
+.bootstrap-tagsinput .tag {
+	margin-top: 0.4rem;
+	margin-bottom: 0.4rem;
+	border-radius: 0 !important;
+}
+
+.bootstrap-tagsinput .tag:not([class*=bg-]) {
+	background-color: #61892F;
+	color: #FFF;
+}
+
+.tt-menu {
+	margin-top: .7rem;
+	padding: .4rem;
+	border-radius: 0 !important;
+    background-color: #474B4F;
+}
+
+.tt-suggestion {
+	background: #c6c7c7;
+	color: #272727;
+	margin-bottom: .3rem;
+}
